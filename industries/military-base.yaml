@@ -1,0 +1,17 @@
+available: true
+callbacks: ''
+cargoAcceptance:
+- MILT
+cargoProduction: []
+colour: 1
+fundCostMultiplier: 100
+id: 21
+layout:
+- - - -1
+name: Military Base
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 30
+prospectChance: 0
+tiles: []
+type: tertiary

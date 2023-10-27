@@ -1,0 +1,17 @@
+abbreviation: MI
+available: false
+classes: 32
+colour: 1
+id: 5
+label: MILT
+longName: military goods
+name: Military Goods
+penaltyLength: 244
+penaltyLowerBound: 11
+price: 370086
+sprite:
+  filename: cargoes/military-goods.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 32
